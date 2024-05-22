@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "welFqUdTY0xaBdKhx1JjRvIpB5+8fObJtfNSmbVNXBSI0sxzxnLe0ib7+hMMLddsSvwoTR4MLfwZcz1BdXsJYA==",
+  "dgSpecHash": "9iMA9H39ndT+U1Z4HHIH55voRQEQJHd/O5Xe3fHfbzjtnKHbZNGVU29gFa043A6+nu2l8/OhWf5nk0z21rX0nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marco\\Documents\\UiPath\\HelloWorld\\.local\\",
+  "projectFilePath": "C:\\Users\\Marco\\Documents\\GitHub\\RPA_UiPath\\Tutorials\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Marco\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Marco\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

@@ -7618,9 +7618,9 @@
     "restore": {
       "projectUniqueName": "HelloWorld",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\Marco\\Documents\\UiPath\\HelloWorld\\.local",
+      "projectPath": "C:\\Users\\Marco\\Documents\\GitHub\\RPA_UiPath\\Tutorials\\.local",
       "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marco\\Documents\\UiPath\\HelloWorld\\.local"
+      "outputPath": "C:\\Users\\Marco\\Documents\\GitHub\\RPA_UiPath\\Tutorials\\.local"
     },
     "frameworks": {
       "net461": {
