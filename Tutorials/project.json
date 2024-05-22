@@ -1,7 +1,7 @@
 {
   "name": "HelloWorld",
   "description": "First automation project \"Hello World\"",
-  "main": "DebuggingSelectors.xaml",
+  "main": "OtherControlFlows.xaml",
   "dependencies": {
     "Microsoft.Activities.Extensions": "[2.0.6.9]",
     "UiPath.Excel.Activities": "[2.11.4]",
@@ -60,6 +60,12 @@
     {
       "filePath": "DebuggingSelectors.xaml",
       "uniqueId": "86822017-c68b-4f17-ae04-ca085ecc33b3",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "OtherControlFlows.xaml",
+      "uniqueId": "d95e395d-b634-451f-8bda-89ef694ee9bc",
       "input": [],
       "output": []
     }
