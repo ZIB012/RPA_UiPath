@@ -1,11 +1,12 @@
 {
   "name": "HelloWorld",
   "description": "First automation project \"Hello World\"",
-  "main": "OtherControlFlows.xaml",
+  "main": "ExcelApplicationScope.xaml",
   "dependencies": {
     "Microsoft.Activities.Extensions": "[2.0.6.9]",
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.12.3]",
+    "UiPath.PDF.Activities": "[3.16.0]",
     "UiPath.System.Activities": "[21.10.6]",
     "UiPath.UIAutomation.Activities": "[21.10.8]"
   },
@@ -66,6 +67,30 @@
     {
       "filePath": "OtherControlFlows.xaml",
       "uniqueId": "d95e395d-b634-451f-8bda-89ef694ee9bc",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "DataScraping.xaml",
+      "uniqueId": "b31596f2-1408-434e-97db-b4c9440d31f4",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "ReadPDF.xaml",
+      "uniqueId": "229557e9-94b4-4583-9379-4a50a4dd9c83",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "WorkbookAutomation.xaml",
+      "uniqueId": "35b29486-21df-4d21-af43-899cbbfaacb5",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "ExcelApplicationScope.xaml",
+      "uniqueId": "5ae5ddbe-6ab2-4ea1-bd65-a33de23772d2",
       "input": [],
       "output": []
     }

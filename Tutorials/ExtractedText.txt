@@ -1,0 +1,6 @@
+Intelligent, intuitive capabilities 
+Provides details, validation, and 
+notifications about on-screen 
+selections via an on-screen wizard. 
+Uses the recorder to easily generate 
+full vision-based automations 

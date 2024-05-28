@@ -48,7 +48,7 @@
       <AssemblyReference>System.Memory</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Flowchart sap2010:Annotation.AnnotationText="In this workflow, we will learn to use Flowchart activity in Studio ." DisplayName="FlowchartDemo" sap:VirtualizedContainerService.HintSize="662.4,668" sap2010:WorkflowViewState.IdRef="Flowchart_1">
+  <Flowchart sap2010:Annotation.AnnotationText="In this workflow, we will learn to use Flowchart activity in Studio.&#xD;&#xA;A &quot;Flow-Decision&quot; activity and a loop are created.&#xD;&#xA;In flowcharts a loop can be created by simply connecting one activity to another" DisplayName="FlowchartDemo" sap:VirtualizedContainerService.HintSize="662.4,696.8" sap2010:WorkflowViewState.IdRef="Flowchart_1">
     <Flowchart.Variables>
       <Variable x:TypeArguments="x:String" Name="FirstName" />
       <Variable x:TypeArguments="x:Int32" Name="intMarks" />

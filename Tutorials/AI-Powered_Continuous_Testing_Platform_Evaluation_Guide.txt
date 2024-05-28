@@ -1,0 +1,509 @@
+Testing in The Age
+of Generative AI
+A practical guide to choosing the right
+platform for AI-powered continuous testingGenerative AI is here and will
+transform the way testing is done.
+
+“Most teams utilize 5–10
+disparate tools to test
+different technologies
+in an enterprise.”
+GitLab’s 2022 DevSecOps Global Survey
+For decades, testing leaders have
+been striving to maximize automation
+coverage to boost testing effectiveness
+and ensure new features or changes
+don't impact business operations.
+Unfortunately, most testing is still
+done manually, which is costly and
+slow. Reliance on manual testing leads
+to poor quality of production systems
+and/or slower release cycles.
+This is why testing is perceived
+as the biggest bottleneck to delivering
+value to customers.
+Many testing vendors, perhaps the ones
+you rely on, added new capabilities by
+acquisition and are burdened with a
+bucket of tools that are poorly integrated
+with different architectures—requiring
+customers to use different tools to test or
+automate different technologies.
+These piecemeal “platforms” are not
+architected to infuse AI into their existing
+capabilities and will impede their ability
+to apply and react to new AI innovations.
+
+Page 21
+Why is now the time
+to modernize? IDC Survey: What application
+development process do you think
+has the most potential to benefit
+A recent IDC survey asked respondents which from Generative AI?
+area of software delivery will benefit most from
+Generative AI–testing takes the lead, followed
+closely by security testing and code generation Prototyping 8.50%
+(see IDC Survey diagram).
+UI Design 9%
+You now have the potential to achieve what was
+once considered impossible: maximizing testing Writing code 18%
+coverage, automating the majority of your testing
+portfolio, and elevating each of your testers to
+become the best tester they can be. Securiy Testing 21.50%
+
+Efficient automated testing leads to faster release
+cycles, reduced risk of production issues, and
+ultimately faster time to deliver new customer
+value in the form of software.
+Software quality 22.50%
+and testing
+Source: IDC, Generative AI Offers Greatest Expected Developer Benefits to Software Quality and Testing
+Followed by App Security Testing, Doc :# US50999823, June 2023
+
+Page 31
+Why is now the time
+to modernize?
+
+Ready to get going? Here are some questions to get you started. Customer Challenge
+
+1 Does the platform meet your basic needs?
+Does the platform cover the basics and provide the fundamental planning,
+automation, execution, and analysis capabilities for your team’s unique needs? Cushman & Wakefield experienced
+significant inefficiency and decreased
+benefits from their extraction platform
+2 Is the platform enterprise-ready? due to delayed release of new
+Does the platform provide the enterprise capabilities to drive your scaling, features and frequent manual
+reuse, compliance, and security needs?
+regression testing.
+
+3 Is the vendor an AI innovator?
+Does the platform infuse AI and ML into their core capabilities with a security
+layer along with a robust roadmap and vision for responsibility?
+
+Page 4The Basics:
+Can the platform meet your bottom-line needs?
+
+Lifecycle and DevOps
+tool integrations
+Does the platform integrate with
+your ALM, testing, continuous
+integration, and the rest of
+your DevOps toolchain?
+Requirements
+management
+Does the platform support
+creation or ingestion of
+requirements, with full traceability
+between defects, results, test
+cases, and requirements?
+Test case management
+Does the platform provide
+support for creating and managing
+test cases, including the ability
+to create logical test sets, order
+test cases, and create
+dynamic test sets?
+SAP change
+impact analysis
+Is the platform certified for SAP?
+Does it provide visualizations to
+understand the quality of SAP?
+Can testing be scoped to only test
+around changes introduced?
+
+Test automation for
+all target software
+Can the platform support every
+technology under test, including
+both what is being tested at
+present and any technologies that
+you plan to test in the future?
+AI-assisted test
+data generation
+Does the platform
+enable creation of synthetic
+test data using AI to generate
+more realistic data to test
+every variation and edge case?
+Unified automation
+development environment
+Does the platform support
+both technical and business
+testing roles with an IDE that
+enables the creation of coded
+or low-code automations that
+can be used interchangeably?
+AI object recognition
+Does the platform include AI
+capabilities with multi-anchor
+unified targeting to reduce
+maintenance and improve test
+execution reliability?
+
+Page 5Enterprise-Ready:
+Will the platform scale to address your evolving needs?
+
+Reliable execution
+orchestration
+Does the vendor provide the ability
+to execute automations in parallel
+with more advanced orchestration,
+like triggers, schedules, and
+CI/CD integrations?
+Shareable
+component library
+and object repository
+Can the automation components
+in the platform be shared
+in a library and used by other
+departments or teams?
+Third-party certifications
+Does the vendor/platform have
+certification that your organization
+requires or prefers? (Inclusive
+of partner endorsements, like
+SAP, and official certifications,
+like FedRamp)
+Governance support
+Does the platform meet your
+governance criteria? Does it
+include role-based permissions,
+access control, coding standards,
+and full audit trails?
+
+Strong community
+and training
+Does the platform have a strong
+user community? How many users
+and customers are engaged?
+Does the vendor offer any
+complementary training?
+Migration and
+adoption services
+Does the vendor offer competitive
+migrations? Can they migrate
+both test management and
+automation assets? Can the
+vendor provide references?
+Cloud-first architecture
+How often does the vendor
+release features? Do they
+offer on-premises or
+hybrid options?
+Marketplace with
+prebuilt components
+Does the vendor provide a
+marketplace of prebuilt
+components and accelerators? Are
+there components available that
+are relevant to your tech stack?
+
+Page 6AI Innovator:
+Is the vendor positioned to deliver AI features?
+
+Test case generation
+Does the vendor have working
+software to generate step-by-step
+test cases from requirements or
+other source documents?
+Test automation
+generation
+Does the vendor have working
+software to generate code from
+natural language comments, test
+steps, or other source documents?
+AI-assisted
+results analysis
+Does the vendor provide
+the ability to leverage Gen AI
+to assist in results analysis?
+AI models
+Can you host AI models
+in the platform? Do they provide
+templates? Can you bring
+your own models?  Can they be
+easily trained?
+
+Ability to customize
+AI/ML prompts
+Does the vendor allow you to
+customize any codified prompts so
+that the prompt is more aligned to
+your organization's approach?
+Interactive prompts and
+document ingestion
+Does the vendor hard code
+prompts and output? Or do
+they allow you to freely interact
+with any prompts and feed the
+model any documents?
+Dynamic AI
+roadmap
+Does the vendor have a
+public roadmap that is
+dynamic yet achievable?
+Strategy for responsible AI
+What is the vendor's approach to
+safeguarding your proprietary data
+and models? Do they provide
+connectors for safely interfacing
+with popular LLMs?
+
+Page 7Does the platform and
+vendor deliver results?
+
+Ask for success Look at the vendor’s Investigate third-party
+1 Reduced Risk? stories relevant to your track record for recommendations, analyst
+Can the solution reduce the risk industry, domain, or delivering test features reports, partner network,
+of introducing defects into technology under test on-time and in-scope and peer review sites
+production? By how much?
+
+2 Reduced Cost?
+Does the solution reduce the cost
+of testing? By how much?
+
+3 Accelerated
+Continuous Delivery?
+Does the solution ultimately improve
+time to market? How much faster?
+
+Page 8UiPath supports
+every testing role in a Analysts
+Simplified acceptance testing
+unified environment and empowered to create
+low-code automations
+
+UiPath Test Suite, powered by the UiPath Business
+Automation Platform, provides an open, extensible
+platform that offers a unified experience for continuous
+testing with capabilities to assist every role.
+Whether testing is your primary role, you’re
+a developer who tests your code, or you’re
+a business analyst who performs acceptance testing.
+Testers
+Efficiently plan, automate and
+execute tests for new features
+and software releases
+
+Developers
+Unit test software with
+coded automations
+
+Page 9Go beyond the basics
+with the UiPath Platform
+
+The UiPath Advantage:
+
+Open & Extensible:
+Integrate Test Suite with more than 50 connectors to
+common lifecycle and DevOps tools, including Jira,
+ServiceNow, Azure DevOps, SAP Solution Manager,
+qTest, Micro Focus ALM, Jenkins, and more.
+
+Unified Automation for All
+With UiPath Studio, you can leverage a development IDE
+that enables technical or business-oriented testers with
+the choice of coded or low-code authoring. In addition,
+UiPath provides AI-powered test data generation to
+test every data variation.
+Comprehensive Automation
+UiPath enables automation of virtually any technology,
+including desktop, mobile, web, RPA, API, SAP, Oracle,
+and Workday, and provides AI computer vision to test
+legacy, virtualized desktops, or intricate interfaces.
+Unified
+One IDE supports
+every tester with coded
+or low-code automation
+Open and Extensible
+Integrates into your DevOps
+and ALM toolchain with
+50+ connectors
+Comprehensive
+Automation
+support for virtually
+any technology
+
+Page 10UiPath is enterprise-ready
+
+Customer Solution Why do Fortune 500 companies like Cisco, NatWest, and VMware trust
+UiPath for continuous testing? UiPath provides enterprise-grade
+automation capabilities that the other test vendors cannot provide.
+
+In partnership with Ashling
+Partners, Cushman & Wakefield
+deployed UiPath Test Suite to
+automate the intensive test cases
+needed to thoroughly test the
+SaaS application.
+Production-grade
+automation
+UiPath offers multiple identification
+methods, including multi-anchor
+unified targeting, a remote runtime
+extension for external machines,
+and AI Computer Vision to test
+virtually any application in a single
+end-to-end test scenario.​
+Elastic orchestration
+and IT automation
+UiPath offers
+‘orchestration-as-a-service’
+either built-in via Automation
+Cloud or via IT Automation
+solution for customer-managed
+deployments.​
+FedRAMP Certified
+UiPath is now trusted to
+process data securely and
+transparently for U.S. citizens
+and U.S. government bodies.
+
+Cloud-first
+flexible architecture
+UiPath products are built from the
+ground-up by our product team of
+over 500+ engineers. Any tools
+obtained via acquisition are rebuilt
+as part of the platform.
+Vibrant Community
+UiPath has an active
+community of over 100,000
+users, with a free community
+edition and free training.
+Migration Services
+UiPath offers services
+to migrate both test
+management and automation
+assets from any legacy
+provider to accelerate
+modernization of your team.
+
+Page 11UiPath provides
+practical and safe AI “TuringBots can help automate and
+test smarter instead of
+From the beginning, UiPath incorporated Specialized AI like hyperautomating all tests —
+Computer Vision and Document Understanding. Now, it is set to offer increasing quality by automating
+Generative AI features through UiPath Autopilot experiences and more with less effort.”
+gateway connectors to well-known LLMs to support activities such as
+synthetic test data generation and test generation. Forrester Research, The Future of TuringBots, 2023
+
+The UiPath Advantage:
+
+Safe AI:
+UiPath provides a Trust Layer that
+safeguards customer data as you
+explore and adopt new Generative AI
+experiences.
+Flexible AI:
+Bring your own ML models, use our out-
+of-the-box models, or select third party
+options. Regardless of which you choose,
+you’ll be able to bring them into production
+quickly and rapidly train them.
+Dynamic Investment
+and Roadmap:
+Test Suite continues to deliver new AI
+features with a vision of AI, progressing
+from a reactive assistant to a trusted
+partner that executes tests
+autonomously.
+Generative AI:
+While some vendors are struggling to
+deliver working AI, UiPath customers are
+already using Autopilot .
+
+Page 12Autopilot for
+UiPath Test Suite
+1. Plan with precision
+Generate step-by-step manual
+test cases from requirements
+Autopilot is your and documentation.
+partner for AI at Work
+
+Try Autopilot Today
+
+3. Answers without effort 2. Automate faster
+Generate actionable reports from Generate automations
+results and logs to understand from comments, test
+what happened and, more steps, and documents.
+importantly, why it happened.
+
+Page 131
+UiPath has a track record
+of test success
+
+The UiPath Advantage:
+
+Improves Quality: Organization Synergy: Customer Outcomes
+Maximized automation Enterprises that have
+coverage and resilient execution standardized on UiPath for
+leads to 60-80% fewer defects automation across test and
+on average. automation COEs experience
+50% less maintenance, decreased Cushman & Wakefield automated 95%
+Unified Automation for All: training costs, and reduced of regression testing, significantly
+Consolidation of tools and flexible upskilling costs, ultimately saving reducing the testing cycle time by
+licensing result in 50% reduction in up to $4 million per year on 90%, allowing Cushman & Wakefield
+costs on average. average. to accelerate the implementation of
+Accelerates Automate Beyond Testing: their key strategic initiative.
+Value Delivery: Best-in-class Process Mining,
+Improved efficiency of automation Process Automation, Document
+and precision execution drives an Processing, and Apps are now
+average of 5-10X improvements in available for your organization.
+release speed.
+
+Page 14Discover why UiPath
+Test Suite is the best
+choice for your team
+
+UiPath is the only testing platform that offers AI-
+powered production-grade automation with
+Autopilot technology to make testing more
+efficient and rewarding. Users can continuously
+test virtually any technology, enabling teams to
+build automations more quickly, execute with
+precision, and proactively fix issues to keep
+business operations running smoothly.
+
+Testing and QA doesn’t have to
+be a cost center. Turn it into an
+enterprise-wide value driver for
+your business today.
+
+Explore UiPath Test Suite
+
+Page 16About UiPath
+
+The UiPath Business Automation Platform is a leading, easy-to-
+use, scalable, and open platform that allows everyone—from
+automation developers and testers to citizen developers and
+business users— to work alongside software robots and achieve
+better business outcomes.
+Sources:
+A Leader in the 2022 Gartner® Magic Quadrant for RPA
+Get the report
+
+With UI-based and API-based RPA at its core, UiPath Test Suite
+supports testing more than 190 technologies, from legacy systems
+to mobile applications and devices, as well as virtualized systems
+with UiPath AI Computer Vision technology.
+A Forrester Wave Leader for Robotic Process
+Automation, Q1 2021
+Get the report
+
+For more information, visit uipath.com
+Everest Group Robotic Process Automation Products PEAK
+Matrix® Leader 2022
+Get the report
+
+© UiPath, Inc. 2024. All rights reserved.
+Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors
+with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as
+statements of fact. Gartner disclaims all warranties, express or implied, with respect to this research, including any warranties of merchantability or fitness for a
+particular purpose. Gartner, Magic Quadrant for Robotic Process Automation, by Saikat Ray, Arthur Villa, Melanie Alexander, Keith Guttridge, Andy Wang, Paul
+Vincent, 25 July, 2022.
+Debuted as Leader in IDC MarketScape for Worldwide
+Cloud Testing Vendors 2022
+Get the report
+
+Page 17© UiPath, Inc. 2024
