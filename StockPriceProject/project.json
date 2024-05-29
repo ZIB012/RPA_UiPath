@@ -1,7 +1,7 @@
 {
   "name": "StockPriceProject",
   "description": "Capstone Project: Stock Price Trend Comparison",
-  "main": "Main.xaml",
+  "main": "Main_Flowchart.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.12.3]",
@@ -45,8 +45,14 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "fb009290-75a2-4b37-b2ad-29d34fac9809",
+      "filePath": "Main_Flowchart.xaml",
+      "uniqueId": "64b37bea-84f9-48f8-b740-3203870f3219",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Tests.xaml",
+      "uniqueId": "482fad52-baa7-47e1-bf42-cc637ba8348e",
       "input": [],
       "output": []
     }
