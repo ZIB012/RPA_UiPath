@@ -31,3 +31,21 @@ You must ensure that your system environment is equipped with the prerequisites 
     - UiPath.System.Activities
 
     - UiPath.UiAutomation.Activities
+
+### Method
+
+![](../images_for_README/FlowchartStockPrice.png)
+
+- At the beginning the variables regarding the trading time are set and, if the stock market is open, the automation starts
+
+- Two webpages are open, one for each stock price is needed to save
+
+- The stock market price is saved using a Screen Scraping method ![](../images_for_README/StockPriceWebpage.png)
+
+- A delay activity is used to save the prices at each time step
+
+- When the automation is finished, all the prices are saved into the Excel file
+
+### Result
+
+![](../images_for_README/DataPriceExcel.png)
